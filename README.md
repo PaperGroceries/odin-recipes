@@ -1,4 +1,4 @@
 # odin-recipes
 
-Project name: Recipes 
+Project name: Recipes  
 What I have learned:
